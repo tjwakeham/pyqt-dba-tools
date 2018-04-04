@@ -1,0 +1,33 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix='record'>
+        <file alias='comment'>icon/comment.png</file>
+        <file alias='note'>icon/sticky-note--plus.png</file>
+
+        <file alias='save'>icon/disk.png</file>
+
+        <file alias='tick'>icon/tick.png</file>
+        <file alias='cross'>icon/cross.png</file>
+        <file alias='plus'>icon/plus.png</file>
+        <file alias='minus'>icon/minus.png</file>
+
+        <file alias='refresh'>icon/arrow_refresh.png</file>
+
+        <file alias='add'>icon/add.png</file>
+        <file alias='edit'>icon/page_edit.png</file>
+        <file alias='delete'>icon/delete.png</file>
+
+        <file alias='import'>icon/database-import.png</file>
+        <file alias='export'>icon/database-export.png</file>
+    </qresource>
+
+    <qresource prefix='filter'>
+        <file alias='clear'>icon/magnifier--minus.png</file>
+    </qresource>
+
+    <qresource prefix='report'>
+        <file alias='report'>icon/report.png</file>
+        <file alias='print'>icon/printer.png</file>
+        <file alias='pdf'>icon/document-pdf.png</file>
+    </qresource>
+</RCC>
